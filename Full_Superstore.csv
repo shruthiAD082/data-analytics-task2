@@ -1,0 +1,51 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+1,CA-2017-152156,11/8/17,11/11/17,Second Class,CG-12520,Claire Gute,Consumer,United States,Henderson,California,42420,West,Furniture,Bookcases,Bush Bookcase,261.96,2,0.0,41.91
+2,CA-2017-152157,11/8/17,11/11/17,Second Class,DV-13045,Darrin Van Huff,Corporate,United States,Los Angeles,California,90036,West,Furniture,Chairs,Hon Stacking Chair,731.94,3,0.0,219.58
+3,US-2015-108966,10/13/15,10/15/15,Standard Class,SO-20335,Sean O'Donnell,Consumer,United States,Fort Lauderdale,Florida,33311,South,Office Supplies,Labels,Avery 492,14.62,2,0.0,6.87
+4,TX-2016-114412,6/9/16,6/14/16,Standard Class,BH-11710,Brosina Hoffman,Corporate,United States,Houston,Texas,77095,Central,Technology,Phones,Cisco Phone,911.424,5,0.2,90.0
+5,TX-2016-114413,6/9/16,6/14/16,Standard Class,BH-11710,Brosina Hoffman,Corporate,United States,Houston,Texas,77095,Central,Technology,Phones,Cisco Phone,99.98,1,0.1,-5.0
+6,CA-2015-134688,5/28/15,6/1/15,First Class,AA-10315,Andrew Allen,Home Office,United States,San Francisco,California,94107,West,Office Supplies,Storage,Storage Box,8.56,1,0.0,1.0
+7,CA-2016-144527,7/2/16,7/5/16,Second Class,TC-12345,Tara Collins,Consumer,United States,New York,New York,10024,East,Furniture,Tables,Office Table,300.0,4,0.3,-20.5
+8,NY-2017-118983,4/15/17,4/20/17,Second Class,AZ-10023,Albert Zinc,Corporate,United States,Seattle,Washington,98103,West,Technology,Machines,Canon Printer,220.25,1,0.0,10.0
+9,WA-2015-110088,12/30/15,1/2/16,Standard Class,MH-19023,Mary Howard,Consumer,United States,Miami,Florida,33101,South,Office Supplies,Binders,Binder Pack,22.13,3,0.2,2.0
+10,WA-2016-119981,4/29/16,5/4/16,Standard Class,LV-11898,Lisa Valdez,Home Office,United States,Spokane,Washington,99224,West,Furniture,Furnishings,Furnishing Shelf,78.5,2,0.15,-1.5
+11,CA-2017-152156,11/8/17,11/11/17,Second Class,CG-12520,Claire Gute,Consumer,United States,Henderson,California,42420,West,Furniture,Bookcases,Bush Bookcase,261.96,2,0.0,41.91
+12,CA-2017-152157,11/8/17,11/11/17,Second Class,DV-13045,Darrin Van Huff,Corporate,United States,Los Angeles,California,90036,West,Furniture,Chairs,Hon Stacking Chair,731.94,3,0.0,219.58
+13,US-2015-108966,10/13/15,10/15/15,Standard Class,SO-20335,Sean O'Donnell,Consumer,United States,Fort Lauderdale,Florida,33311,South,Office Supplies,Labels,Avery 492,14.62,2,0.0,6.87
+14,TX-2016-114412,6/9/16,6/14/16,Standard Class,BH-11710,Brosina Hoffman,Corporate,United States,Houston,Texas,77095,Central,Technology,Phones,Cisco Phone,911.424,5,0.2,90.0
+15,TX-2016-114413,6/9/16,6/14/16,Standard Class,BH-11710,Brosina Hoffman,Corporate,United States,Houston,Texas,77095,Central,Technology,Phones,Cisco Phone,99.98,1,0.1,-5.0
+16,CA-2015-134688,5/28/15,6/1/15,First Class,AA-10315,Andrew Allen,Home Office,United States,San Francisco,California,94107,West,Office Supplies,Storage,Storage Box,8.56,1,0.0,1.0
+17,CA-2016-144527,7/2/16,7/5/16,Second Class,TC-12345,Tara Collins,Consumer,United States,New York,New York,10024,East,Furniture,Tables,Office Table,300.0,4,0.3,-20.5
+18,NY-2017-118983,4/15/17,4/20/17,Second Class,AZ-10023,Albert Zinc,Corporate,United States,Seattle,Washington,98103,West,Technology,Machines,Canon Printer,220.25,1,0.0,10.0
+19,WA-2015-110088,12/30/15,1/2/16,Standard Class,MH-19023,Mary Howard,Consumer,United States,Miami,Florida,33101,South,Office Supplies,Binders,Binder Pack,22.13,3,0.2,2.0
+20,WA-2016-119981,4/29/16,5/4/16,Standard Class,LV-11898,Lisa Valdez,Home Office,United States,Spokane,Washington,99224,West,Furniture,Furnishings,Furnishing Shelf,78.5,2,0.15,-1.5
+21,CA-2017-152156,11/8/17,11/11/17,Second Class,CG-12520,Claire Gute,Consumer,United States,Henderson,California,42420,West,Furniture,Bookcases,Bush Bookcase,261.96,2,0.0,41.91
+22,CA-2017-152157,11/8/17,11/11/17,Second Class,DV-13045,Darrin Van Huff,Corporate,United States,Los Angeles,California,90036,West,Furniture,Chairs,Hon Stacking Chair,731.94,3,0.0,219.58
+23,US-2015-108966,10/13/15,10/15/15,Standard Class,SO-20335,Sean O'Donnell,Consumer,United States,Fort Lauderdale,Florida,33311,South,Office Supplies,Labels,Avery 492,14.62,2,0.0,6.87
+24,TX-2016-114412,6/9/16,6/14/16,Standard Class,BH-11710,Brosina Hoffman,Corporate,United States,Houston,Texas,77095,Central,Technology,Phones,Cisco Phone,911.424,5,0.2,90.0
+25,TX-2016-114413,6/9/16,6/14/16,Standard Class,BH-11710,Brosina Hoffman,Corporate,United States,Houston,Texas,77095,Central,Technology,Phones,Cisco Phone,99.98,1,0.1,-5.0
+26,CA-2015-134688,5/28/15,6/1/15,First Class,AA-10315,Andrew Allen,Home Office,United States,San Francisco,California,94107,West,Office Supplies,Storage,Storage Box,8.56,1,0.0,1.0
+27,CA-2016-144527,7/2/16,7/5/16,Second Class,TC-12345,Tara Collins,Consumer,United States,New York,New York,10024,East,Furniture,Tables,Office Table,300.0,4,0.3,-20.5
+28,NY-2017-118983,4/15/17,4/20/17,Second Class,AZ-10023,Albert Zinc,Corporate,United States,Seattle,Washington,98103,West,Technology,Machines,Canon Printer,220.25,1,0.0,10.0
+29,WA-2015-110088,12/30/15,1/2/16,Standard Class,MH-19023,Mary Howard,Consumer,United States,Miami,Florida,33101,South,Office Supplies,Binders,Binder Pack,22.13,3,0.2,2.0
+30,WA-2016-119981,4/29/16,5/4/16,Standard Class,LV-11898,Lisa Valdez,Home Office,United States,Spokane,Washington,99224,West,Furniture,Furnishings,Furnishing Shelf,78.5,2,0.15,-1.5
+31,CA-2017-152156,11/8/17,11/11/17,Second Class,CG-12520,Claire Gute,Consumer,United States,Henderson,California,42420,West,Furniture,Bookcases,Bush Bookcase,261.96,2,0.0,41.91
+32,CA-2017-152157,11/8/17,11/11/17,Second Class,DV-13045,Darrin Van Huff,Corporate,United States,Los Angeles,California,90036,West,Furniture,Chairs,Hon Stacking Chair,731.94,3,0.0,219.58
+33,US-2015-108966,10/13/15,10/15/15,Standard Class,SO-20335,Sean O'Donnell,Consumer,United States,Fort Lauderdale,Florida,33311,South,Office Supplies,Labels,Avery 492,14.62,2,0.0,6.87
+34,TX-2016-114412,6/9/16,6/14/16,Standard Class,BH-11710,Brosina Hoffman,Corporate,United States,Houston,Texas,77095,Central,Technology,Phones,Cisco Phone,911.424,5,0.2,90.0
+35,TX-2016-114413,6/9/16,6/14/16,Standard Class,BH-11710,Brosina Hoffman,Corporate,United States,Houston,Texas,77095,Central,Technology,Phones,Cisco Phone,99.98,1,0.1,-5.0
+36,CA-2015-134688,5/28/15,6/1/15,First Class,AA-10315,Andrew Allen,Home Office,United States,San Francisco,California,94107,West,Office Supplies,Storage,Storage Box,8.56,1,0.0,1.0
+37,CA-2016-144527,7/2/16,7/5/16,Second Class,TC-12345,Tara Collins,Consumer,United States,New York,New York,10024,East,Furniture,Tables,Office Table,300.0,4,0.3,-20.5
+38,NY-2017-118983,4/15/17,4/20/17,Second Class,AZ-10023,Albert Zinc,Corporate,United States,Seattle,Washington,98103,West,Technology,Machines,Canon Printer,220.25,1,0.0,10.0
+39,WA-2015-110088,12/30/15,1/2/16,Standard Class,MH-19023,Mary Howard,Consumer,United States,Miami,Florida,33101,South,Office Supplies,Binders,Binder Pack,22.13,3,0.2,2.0
+40,WA-2016-119981,4/29/16,5/4/16,Standard Class,LV-11898,Lisa Valdez,Home Office,United States,Spokane,Washington,99224,West,Furniture,Furnishings,Furnishing Shelf,78.5,2,0.15,-1.5
+41,CA-2017-152156,11/8/17,11/11/17,Second Class,CG-12520,Claire Gute,Consumer,United States,Henderson,California,42420,West,Furniture,Bookcases,Bush Bookcase,261.96,2,0.0,41.91
+42,CA-2017-152157,11/8/17,11/11/17,Second Class,DV-13045,Darrin Van Huff,Corporate,United States,Los Angeles,California,90036,West,Furniture,Chairs,Hon Stacking Chair,731.94,3,0.0,219.58
+43,US-2015-108966,10/13/15,10/15/15,Standard Class,SO-20335,Sean O'Donnell,Consumer,United States,Fort Lauderdale,Florida,33311,South,Office Supplies,Labels,Avery 492,14.62,2,0.0,6.87
+44,TX-2016-114412,6/9/16,6/14/16,Standard Class,BH-11710,Brosina Hoffman,Corporate,United States,Houston,Texas,77095,Central,Technology,Phones,Cisco Phone,911.424,5,0.2,90.0
+45,TX-2016-114413,6/9/16,6/14/16,Standard Class,BH-11710,Brosina Hoffman,Corporate,United States,Houston,Texas,77095,Central,Technology,Phones,Cisco Phone,99.98,1,0.1,-5.0
+46,CA-2015-134688,5/28/15,6/1/15,First Class,AA-10315,Andrew Allen,Home Office,United States,San Francisco,California,94107,West,Office Supplies,Storage,Storage Box,8.56,1,0.0,1.0
+47,CA-2016-144527,7/2/16,7/5/16,Second Class,TC-12345,Tara Collins,Consumer,United States,New York,New York,10024,East,Furniture,Tables,Office Table,300.0,4,0.3,-20.5
+48,NY-2017-118983,4/15/17,4/20/17,Second Class,AZ-10023,Albert Zinc,Corporate,United States,Seattle,Washington,98103,West,Technology,Machines,Canon Printer,220.25,1,0.0,10.0
+49,WA-2015-110088,12/30/15,1/2/16,Standard Class,MH-19023,Mary Howard,Consumer,United States,Miami,Florida,33101,South,Office Supplies,Binders,Binder Pack,22.13,3,0.2,2.0
+50,WA-2016-119981,4/29/16,5/4/16,Standard Class,LV-11898,Lisa Valdez,Home Office,United States,Spokane,Washington,99224,West,Furniture,Furnishings,Furnishing Shelf,78.5,2,0.15,-1.5
